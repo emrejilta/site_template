@@ -4,7 +4,7 @@
 	
 	//post
 	
-	$db = new vt("localhost","tubitetn","iC5qt0Yr74","tubitetn_uyeler");
+	$db = new vt("localhost","","","");
 	$db->connect();
 	$db->select();
 	$db->query("...");
